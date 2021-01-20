@@ -1,7 +1,4 @@
----
-title: "ethicsbowl"
-author: "Corey Neff"
-date: "1/20/2021"
+
 
 # *Prospective Directions for the National High School Ethics Bowl (NHSEB)*
 ## Class: Geospatial Analysis (GEOS 5010)
